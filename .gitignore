@@ -1,1 +1,7 @@
 train/
+data/
+runs/
+*.pt
+__pycache__/
+.venv/
+yolov8n-cls.pt/
